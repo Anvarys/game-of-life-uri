@@ -27,7 +27,7 @@ Also you can zoom and move the canvas that contains the game
 git clone https://github.com/Anvarys/game-of-life-uri.git
 cd game-of-life-uri
 npm i
-npm build.mjs
+node build.mjs
 ```
 # The URI
 ```
